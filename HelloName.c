@@ -2,7 +2,8 @@
 #include<string.h>
 void main()
 {
-	char Name[50];
+	char Name[40];	
+	prinft("Good morning");
 	prinft("What is your name? ");
 	scanf("%s", Name);
 }
